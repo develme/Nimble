@@ -1,5 +1,6 @@
 ## Nimble
 [![Build Status](https://travis-ci.org/develme/Nimble.svg?branch=master)](https://travis-ci.org/develme/Nimble)
+[![GitHub version](https://badge.fury.io/gh/develme%2FNimble.svg)](http://badge.fury.io/gh/develme%2FNimble)
 
 ## Nimble - A NodeJS Framework
 

@@ -28,6 +28,6 @@ app.framework.use(app.session({secret: 'framework'}));
 app.framework.use(app.auth.method.initialize());
 app.framework.use(app.auth.method.session());
 
-module.exports = app.framework.listen(3000, function () {
+module.exports = app.framework.listen(5000, function () {
 	console.log('Listening on port %d', module.exports.address().port);
 });
